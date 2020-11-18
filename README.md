@@ -4,5 +4,4 @@
 
 ### Author
 
-1. Shantam Bajpai: 2nd year graduate student in Robotics at the University of Maryland, College Park
-2. Arpit Aggarwal: 2nd year graduate student in Robotics at the University of Maryland, College Park
+Shantam Bajpai and Arpit Aggarwal
