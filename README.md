@@ -5,3 +5,10 @@
 ### Author
 
 Shantam Bajpai and Arpit Aggarwal
+
+### Research Paper References
+
+### Course
+CMSC 828I: Advanced Techniques in Visual Learning and Recognition
+
+### Project Description 
