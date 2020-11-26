@@ -19,3 +19,5 @@ Deeplab-v3+: https://arxiv.org/pdf/1802.02611.pdf
 SPADE: https://arxiv.org/pdf/1903.07291.pdf
 
 AdvSPADE: https://arxiv.org/pdf/1910.02354.pdf
+
+https://arxiv.org/abs/1711.09856
